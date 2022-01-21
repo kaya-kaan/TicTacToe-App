@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe App - Kaan Kaya (218189415)</string>
+
+    <string-array name = "firstPlayerOptions">
+        <item>Player X</item>
+        <item>Player O</item>
+    </string-array>
+</resources>
